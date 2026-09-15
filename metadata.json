@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Textil & Retail - Cuaderno de Corte",
+  "description": "Sistema integral para fábrica de indumentaria y retail: cuaderno de corte digitalizado, control de inventario en tiempo real, punto de venta con vendedoras, facturación electrónica y reportes analíticos con margen de ganancia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
